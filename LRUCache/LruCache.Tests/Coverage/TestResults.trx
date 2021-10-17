@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="00bd5963-5564-4659-a659-820b201cdea4" name="olatu@OOLATUNJI 2021-10-17 13:19:20" runUser="OOLATUNJI\olatu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-10-17T13:19:20.6153914+01:00" queuing="2021-10-17T13:19:20.6153931+01:00" start="2021-10-17T13:19:17.3229983+01:00" finish="2021-10-17T13:19:20.6517598+01:00" />
+  <TestSettings name="default" id="db07f822-5031-4415-858f-da9545f88f72">
+    <Deployment runDeploymentRoot="olatu_OOLATUNJI_2021-10-17_13_19_20" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="cac3bac4-fd92-4407-922d-92617d1634e0" testId="372f221b-03fb-b97f-225e-9ad4cb98708b" testName="LruCache_Returns_CorrectCachedItems(&quot;ABCDA&quot;)" computerName="OOLATUNJI" duration="00:00:00.0011350" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cac3bac4-fd92-4407-922d-92617d1634e0" />
+    <UnitTestResult executionId="10789616-bf38-4573-a64e-b197d217cacc" testId="ec2c6b26-ffe8-a19d-7908-591639d34662" testName="LruCache_Returns_CorrectCachedItems(&quot;ABCD&quot;)" computerName="OOLATUNJI" duration="00:00:00.0001890" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10789616-bf38-4573-a64e-b197d217cacc" />
+    <UnitTestResult executionId="589aaa1d-abad-4606-aeb2-95ac69a8e0d4" testId="c75fe1c5-5053-4d97-e028-b1f94b42059e" testName="LruCache_Returns_CorrectCachedItems(&quot;ABCDAED&quot;)" computerName="OOLATUNJI" duration="00:00:00.0004450" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="589aaa1d-abad-4606-aeb2-95ac69a8e0d4" />
+    <UnitTestResult executionId="1dbec4df-1a74-4603-af48-952c7addc131" testId="da41bf15-5c98-f1fc-79da-f630fbec5eac" testName="LruCache_Returns_CorrectCachedItems(&quot;AB&quot;)" computerName="OOLATUNJI" duration="00:00:00.0421570" startTime="2021-10-17T13:19:19.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1dbec4df-1a74-4603-af48-952c7addc131" />
+    <UnitTestResult executionId="937faa6a-9493-4219-b8af-e007927c7754" testId="1ab998ca-a496-f991-352f-713b2e920019" testName="LruCache_Returns_CorrectCachedItems(&quot;ABCDAE&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002540" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="937faa6a-9493-4219-b8af-e007927c7754" />
+    <UnitTestResult executionId="6337eb23-33bd-4f25-817d-71eabc4eaea8" testId="19951436-69a3-0142-0656-040e273299e4" testName="LruCache_Returns_CorrectCachedItems(&quot;ABCDAEDZ&quot;)" computerName="OOLATUNJI" duration="00:00:00.0002630" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6337eb23-33bd-4f25-817d-71eabc4eaea8" />
+    <UnitTestResult executionId="6d5ae585-28ea-44d9-b628-58c7ccf611fa" testId="a3b6b6c0-2885-0bcf-3ba4-7878c83cffc2" testName="LruCache_Returns_CorrectCachedItems(&quot;ABC&quot;)" computerName="OOLATUNJI" duration="00:00:00.0006410" startTime="2021-10-17T13:19:20.0000000+01:00" endTime="2021-10-17T13:19:20.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d5ae585-28ea-44d9-b628-58c7ccf611fa" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABC&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="a3b6b6c0-2885-0bcf-3ba4-7878c83cffc2">
+      <Execution id="6d5ae585-28ea-44d9-b628-58c7ccf611fa" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABC&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;AB&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="da41bf15-5c98-f1fc-79da-f630fbec5eac">
+      <Execution id="1dbec4df-1a74-4603-af48-952c7addc131" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;AB&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABCD&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="ec2c6b26-ffe8-a19d-7908-591639d34662">
+      <Execution id="10789616-bf38-4573-a64e-b197d217cacc" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABCD&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABCDA&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="372f221b-03fb-b97f-225e-9ad4cb98708b">
+      <Execution id="cac3bac4-fd92-4407-922d-92617d1634e0" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABCDA&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAED&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="c75fe1c5-5053-4d97-e028-b1f94b42059e">
+      <Execution id="589aaa1d-abad-4606-aeb2-95ac69a8e0d4" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAED&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAEDZ&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="19951436-69a3-0142-0656-040e273299e4">
+      <Execution id="6337eb23-33bd-4f25-817d-71eabc4eaea8" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAEDZ&quot;)" />
+    </UnitTest>
+    <UnitTest name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAE&quot;)" storage="c:\users\olatu\projects\demo\awsm\lrucache\lru-cache\lrucache\lrucache.tests\bin\debug\net5.0\lrucache.tests.dll" id="1ab998ca-a496-f991-352f-713b2e920019">
+      <Execution id="937faa6a-9493-4219-b8af-e007927c7754" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="LruCache.Tests.LruCacheServiceTest" name="LruCache_Returns_CorrectCachedItems(&quot;ABCDAE&quot;)" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="372f221b-03fb-b97f-225e-9ad4cb98708b" executionId="cac3bac4-fd92-4407-922d-92617d1634e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec2c6b26-ffe8-a19d-7908-591639d34662" executionId="10789616-bf38-4573-a64e-b197d217cacc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c75fe1c5-5053-4d97-e028-b1f94b42059e" executionId="589aaa1d-abad-4606-aeb2-95ac69a8e0d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da41bf15-5c98-f1fc-79da-f630fbec5eac" executionId="1dbec4df-1a74-4603-af48-952c7addc131" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1ab998ca-a496-f991-352f-713b2e920019" executionId="937faa6a-9493-4219-b8af-e007927c7754" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="19951436-69a3-0142-0656-040e273299e4" executionId="6337eb23-33bd-4f25-817d-71eabc4eaea8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3b6b6c0-2885-0bcf-3ba4-7878c83cffc2" executionId="6d5ae585-28ea-44d9-b628-58c7ccf611fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\olatu\Projects\demo\AWSM\lrucache\lru-cache\LRUCache\LruCache.Tests\bin\Debug\net5.0\LruCache.Tests.dll&#xD;
+   NUnit3TestExecutor converted 7 of 7 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
